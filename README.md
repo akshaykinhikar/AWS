@@ -41,4 +41,21 @@ ec2-user@51.20.133.54: Permission denied (publickey,gssapi-keyex,gssapi-with-mic
 chmod 0400 SecondInstance.pem
 ssh -i SecondInstance.pem ec2-user@**** PUBLIC IP ****
 ```
+### connected successfully
+```
+   ,     #_
+   ~\_  ####_        Amazon Linux 2023
+  ~~  \_#####\
+  ~~     \###|
+  ~~       \#/ ___   https://aws.amazon.com/linux/amazon-linux-2023
+   ~~       V~' '->
+    ~~~         /
+      ~~._.   _/
+         _/ _/
+       _/m/'
+[ec2-user@ip-172-***-**-** ~]$ 
+```
+
+### Disconnect `ctrl + d`
+
 
